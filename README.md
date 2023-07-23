@@ -1,0 +1,1 @@
+## This is machine learning project to predict medical insurance price
